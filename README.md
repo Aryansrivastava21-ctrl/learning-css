@@ -1,59 +1,94 @@
-This Is Aryan Srivastava
-instagram
-Connect with me
-
-Hello
-
-Accept
-
-Instagram
-Meta, India
+<h1> This Is Aryan Srivastava</h1>
+<hr>
 
 
-My friends
-get annoyed when I post in hindi.I guess it's a bit too right-leaning for them
-We will,We will
-Rock you
+     <a target="_blank" href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"
+>instagram</a>
+ <a href="#contact"><p>Connect with me</p></a>  
 
-Some Basic RRR rule,
-Rule No.1
-Rest
-Refresh
-Restart
-Terms and conditions
-By clicking accept, you agree to helping a friend this weekend.
+<p>Hello</p>
+<p><button>Accept</button></p>
+<p><b> Instagram <br>Meta, India</b></p>
 
-Accept No! Way
-Srivastava Bed's and Breakfast
-There's nothing more relaxing than looking a room at Srivastava' BnB
-Book a room
-Welcome To My Web Page
-Radhe
-Jai Shree Ram
-Quotes of the day
-Don't judge each day by the harvest you reap but by the seeds that you plant.
+<p> <b><h1>My friends</h1> <h4>get annoyed when I 
+post in hindi.<em>I guess it's a 
+bit too right-leaning for them</h4><b><em></p>
 
-Namaste
-Meri Teshviree dekhne ke lya link
-
-LIKE SHARE
-
-My snapchat
-My Telegram
-Drawing of Thar
-like
+<p>We will,We will<br><strong>
+Rock you</strong>
 
 
-Thar Image
 
-thar photo
-Link
+<h2><strong>Some Basic RRR rule, </strong></h2>
 
-Room Room Bhaiyooo! Systummm Faaddd Dengeee
+<h1><strong>Rule No.1</strong></h1>
+<h1><em><b>Rest</b></em></h1>
+<h2><em><b>Refresh</b></em></h2>
+<h2><em><b>Restart</b></em></h2>
 
-About us
 
-Connect with me
-email:anshlala4@gmail.com
+<h4>Terms and conditions</h4>
+<p>By clicking accept, you agree to helping a friend this weekend. </p>
+<button>Accept</button>
+<button>No! Way </button>
 
-anshlala4@gmail.com
+<h2>Srivastava Bed's and Breakfast</h2>
+<p><h6>There's nothing more relaxing 
+than looking a room at Srivastava' BnB</h6></p>
+<button>Book a room </button>
+
+<h4>Welcome To My Web Page</h4>
+<button>Radhe</button>
+<br>
+<button>Jai Shree Ram</button>
+
+<h4>Quotes of the day<h4>
+<p>Don't judge each day by the harvest
+                   you reap but by the seeds 
+                                          that you plant.<h6></h6></p>
+<button>Namaste</button>
+<h1><p><button><em><b>Meri Teshviree dekhne ke lya link</b></em></p></button></h1>
+<p>LIKE SHARE<button> </html></button></p>
+
+<a href="https://wwwsnapchat/add/it_ansh21?share_id=M-qDd1Vacg4&locale=en-US"
+>My snapchat</a>
+</body>
+<P></html></P>
+
+
+<a href =t.me/Aryan_srivastava21>My Telegram</a>
+</body>
+<p></html></p>
+ 
+<p><h3>Drawing of <em>Thar</em</h3></p>
+
+
+<h2><p><button>like</button></p></h2>
+<img src ="https://images.app.goo.gl/tbMSjhnhoa7aTkBF8">
+<p>Thar Image<img/> </p>
+</body>
+<p> </html></p>
+<hr>
+</body>
+<p></html></p>
+<a href ="https://images.app.goo.gl/tbMSjhnhoa7aTkBF8">thar photo</a><hr> 
+<a href=https://www.google.com><p>Link</p></a>
+
+
+<h1><em><b>Room Room Bhaiyooo! Systummm Faaddd Dengeee</b></em></h1>
+
+
+<a href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYl4G6VUEE6uXUBIRnZxvtdeYUMF-dnv691w&s"></a>
+
+
+
+<a href="chapter1.html"><p>About us</p></a>
+
+<h2 id="contact">Connect with me</h2>
+
+<p> email:<a href="mailto:anshlala4@gmail.com">anshlala4@gmail.com </a></p>
+<p><a href="mailto:anshlala4@gmail.com"> anshlala4@gmail.com</a></p>
+
+
