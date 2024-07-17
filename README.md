@@ -2,8 +2,7 @@
 <hr>
 
 
-     <a target="_blank" href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"
->instagram</a>
+     <a target="_blank" href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr">instagram</a>
  <a href="#contact"><p>Connect with me</p></a>  
 
 <p>Hello</p>
@@ -64,13 +63,8 @@ than looking a room at Srivastava' BnB</h6></p>
 
 
 <h2><p><button>like</button></p></h2>
-<img src ="https://images.app.goo.gl/tbMSjhnhoa7aTkBF8">
-<p>Thar Image<img/> </p>
-</body>
-<p> </html></p>
 <hr>
-</body>
-<p></html></p>
+
 <a href ="https://images.app.goo.gl/tbMSjhnhoa7aTkBF8">thar photo</a><hr> 
 <a href=https://www.google.com><p>Link</p></a>
 
@@ -88,7 +82,7 @@ than looking a room at Srivastava' BnB</h6></p>
 
 <h2 id="contact">Connect with me</h2>
 
-<p> email:<a href="mailto:anshlala4@gmail.com">anshlala4@gmail.com </a></p>
+
 <p><a href="mailto:anshlala4@gmail.com"> anshlala4@gmail.com</a></p>
 
 
